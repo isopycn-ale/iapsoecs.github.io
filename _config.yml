@@ -22,9 +22,10 @@ description: Physical and chemical oceaongraphy early career scientists
 navbar-links:
   About Us: "aboutus"
   Jobs: "jobs"
-#  Resources:
-#    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-#    - Learn markdown: "http://www.markdowntutorial.com/"
+  Career Resources:
+    - Posdoctoral Fellowships: "fellowships"
+    - Cruise Opportunities: "cruises"
+  Join Us: "joinus"
 #  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -39,7 +40,7 @@ avatar: "/img/IUGG_logo.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#F5F5F5"
+navbar-col: "#1E8FB4"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
@@ -69,10 +70,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: false
-  email: "someone@example.com"
-#  facebook: false
+  email: "iapsoecs@gmail.com"
+#  facebook: username
   github: iapsoecs
-#  twitter: false
+#  twitter: username
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
