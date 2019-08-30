@@ -23,6 +23,7 @@ navbar-links:
   About Us: "aboutus"
   Jobs: "jobs"
   Career Resources:
+    - More Job Links: "joblinks"
     - Posdoctoral Fellowships: "fellowships"
     - Cruise Opportunities: "cruises"
   Join Us: "joinus"
