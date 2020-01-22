@@ -19,6 +19,25 @@ Alejandra is a research scientist in the Marine Physics and Ocean Climate Group 
 **Malin Ödalen (USA, vice-chairperson):**
 Malin is a post-doctoral scientist at the University of Arizona in Tucson. She works on ocean carbon storage across climate states, mainly using intermediate complexity models. Passionate about the ocean, world politics, outdoor activities and her home region in Sweden north of the Artic Circle.
 
+**Arvind Singh (India, member):**
+Arvind Singh is a Reader at the Physical Research Laboratory (PRL), Ahmdedabad, India. He obtained his PhD in Oceanography from PRL in 2011, was a postdoc at University of Gothenburg, Sweden (2012) and GEOMAR, Germany (2013-2015). His research interests are biogeochemical cycles of carbon and nitrogen in the ocean and atmosphere, stable isotopes in the marine environment and oceanographic time-series studies. He teaches ocean biogeochemistry and error analysis courses at PRL.
+
 **Danielle Su (France, member):**
-Danielle her journey as an oceanographer moving from one island (Singapore) to another (Australia) and recently completed her PhD at The University of Weestern Australia investigating flow topography interactions around islands in the Northern Indian Ocean. She just moved to start a biogeochemical post-doc at the LOCEAN Laboratory in Paris, France. Enjoys hiking and good wine, especially if done together.
+Danielle started her journey as an oceanographer moving from one island (Singapore) to another (Australia) and recently completed her PhD at The University of Western Australia investigating flow topography interactions around islands in the Northern Indian Ocean. Now at the LOCEAN Laboratory in Paris, she is delving into the world of biogeochemistry. Enjoys hiking and good wine, especially if done together.
+
+**Kay McMonigal (USA, member):**
+Kay is a fifth year PhD student working with Prof. Lisa Beal at the Rosenstiel School of Marine and Atmospheric Sciences, University of Miami. His work focuses on observations of the Agulhas Current. In addition to the Indian Ocean, he loves running, reading, and beer.
+
+**Casimir de Lavergne (France, member):**
+Casimir's path in oceanography started with a Masters degree at McGill University (Canada), where he studied the formation of cold dense waters around Antarctica. During his PhD (LOCEAN Laboratory, Paris) and postdoc (University of New South Wales, Australia), he set to explore the journey of these cold waters from the Antarctic margins to the ocean abyss. Now back at the LOCEAN Laboratory, he continues to investigate climatic functions of deep and polar oceans.
+
+**Jesse Cusack (USA, member):**
+Jesse is a postdoc in the Multiscale Ocean Dynamics group at the Scripps Institution of Oceanography. He studies small scale physical processes in the deep ocean, such as turbulence, internal waves, and flow over rough topography. He greatly enjoys going to sea to collect observations but while on land spends most of his free time rock climbing or hiking.
+
+**Prasad Padalkar (India, member):**
+Prasad is a research scholar working with Prof. Parthasarthi Chakraborty at the Indian Institute of Technology, Kharagpur, India. His research deals with understanding the biogeochemical cycling of mercury in tropical coastal environments. In particular, he investigates how the elemental form of mercury controls mercury pollution and the effect of climate change stressors on cycling of mercury in coastal  waters.
+
+**Alex Haumann (USA, member):**
+Alex is an environmental scientist studying the polar climate of the Southern Ocean and the interaction between the sea ice, ocean, atmosphere, and carbon cycle. He received his PhD from ETH Zurich (2016), which was awarded with the ETH Medal and the Prix de Quervain. Currently, Alex is a postdoc at Princeton University and BAS honorary researcher. He collaborates internationally in both the SOCCOM and ORCHESTRA projects, and participated in the Antarctic Circumnavigation Expedition. 
+
 
