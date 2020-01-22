@@ -13,5 +13,5 @@ subtitle: IAPSO Early Career Scientists
 
 ## Committee members
 
-Alejandra Sanchez-Franks (UK, chairperson):
-Alejandra is a research scientist in the Marine Physics and Ocean Climate Group at the National Oceanography Centre (NOC) in Southampton.
+**Alejandra Sanchez-Franks (UK, chairperson):**
+Alejandra is a research scientist in the Marine Physics and Ocean Climate Group at the National Oceanography Centre (NOC) in Southampton. She joined NOC after finishing her PhD in Stony Brook University, New York in April 2015 to work on the Bay of Bengal Boundary Layer Experiment (BoBBLE) project, which is a joint collaboration between the UK and India investigating the role of the Bay of Bengal in monsoon variability. As of January 2019, she has joined the RAPID-AMOC (project monitoring the Atlantic meridional overturning circulation) team.
