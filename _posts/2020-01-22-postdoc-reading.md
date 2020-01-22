@@ -8,7 +8,7 @@ comments: false
 
 We are looking a Postdoctoral researcher to conduct research on the submesoscale eddy activity in the Southern Ocean.
 
-This fixed-term position up to 3-years  is part of the large-scale H2020 SO-CHIC project regrouping 15 institutions across Europe (http://www.sochic-h2020.eu/). The overall objective of SO-CHIC is to understand and quantify variability of heat and carbon budgets in the Southern Ocean through an investigation of the key processes controlling exchanges between the atmosphere, ocean and sea ice using a combination of observational and modelling approaches.
+This fixed-term position up to 3-years  is part of the large-scale H2020 SO-CHIC project regrouping 15 institutions across Europe (<a href="http://www.sochic-h2020.eu/">). The overall objective of SO-CHIC is to understand and quantify variability of heat and carbon budgets in the Southern Ocean through an investigation of the key processes controlling exchanges between the atmosphere, ocean and sea ice using a combination of observational and modelling approaches.
 
 The present position will focus on the role of submesoscale and mixed-layer dynamics in the exchange of heat and carbon between the atmosphere and the ocean interior. Design and analysis of high-resolution numerical simulations will be the main approach here but a strong interaction with the observational component of the SO-CHIC project is expected.
 
@@ -22,4 +22,4 @@ You will have:
 Interviews will be held on 2 March 2020.
 
 Job advert and and link to the application page here: 
-https://jobs.reading.ac.uk/displayjob.aspx?jobid=6257
+<a href="https://jobs.reading.ac.uk/displayjob.aspx?jobid=6257">
