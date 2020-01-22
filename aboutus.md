@@ -29,7 +29,7 @@ Danielle started her journey as an oceanographer moving from one island (Singapo
 Kay is a fifth year PhD student working with Prof. Lisa Beal at the Rosenstiel School of Marine and Atmospheric Sciences, University of Miami. His work focuses on observations of the Agulhas Current. In addition to the Indian Ocean, he loves running, reading, and beer.
 
 **Casimir de Lavergne (France, member):**
-Casimir's path in oceanography started with a Masters degree at McGill University (Canada), where he studied the formation of cold dense waters around Antarctica. During his PhD (LOCEAN Laboratory, Paris) and postdoc (University of New South Wales, Australia), he set to explore the journey of these cold waters from the Antarctic margins to the ocean abyss. Now back at the LOCEAN Laboratory, he continues to investigate climatic functions of deep and polar oceans.
+Casimir is a physical oceanographer at the LOCEAN Laboratory in Paris. He studies the climatic functions of deep and polar oceans, focusing on turbulence and mixing in the ocean abyss. Long runs and long nights out keep him in balance.
 
 **Jesse Cusack (USA, member):**
 Jesse is a postdoc in the Multiscale Ocean Dynamics group at the Scripps Institution of Oceanography. He studies small scale physical processes in the deep ocean, such as turbulence, internal waves, and flow over rough topography. He greatly enjoys going to sea to collect observations but while on land spends most of his free time rock climbing or hiking.
