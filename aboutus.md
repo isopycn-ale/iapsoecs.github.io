@@ -12,3 +12,6 @@ subtitle: IAPSO Early Career Scientists
 * To promote diversity as actively as possible and to create awareness of the associated gaps/challenges and discrimination that currently exist withing the scientific community.
 
 ## Committee members
+
+Alejandra Sanchez-Franks (UK, chairperson):
+Alejandra is a research scientist in the Marine Physics and Ocean Climate Group at the National Oceanography Centre (NOC) in Southampton.
