@@ -19,5 +19,7 @@ You will have:
 •    Experience with numerical modelling and HPC
 •    Good writing and communication skills
 
+Interviews will be held on 2 March 2020.
+
 Job advert and and link to the application page here: 
 https://jobs.reading.ac.uk/displayjob.aspx?jobid=6257
