@@ -6,7 +6,7 @@ tags: [postdoc, UK, numerical modelling, ocean submesoscale]
 comments: false
 ---
 
-We are looking a Postdoctoral researcher to conduct research on the submesoscale eddy activity in the Southern Ocean.
+We are looking for a Postdoctoral researcher to conduct research on the submesoscale eddy activity in the Southern Ocean.
 
 This fixed-term position up to 3-years  is part of the large-scale H2020 SO-CHIC project regrouping 15 institutions across Europe (http://www.sochic-h2020.eu/). The overall objective of SO-CHIC is to understand and quantify variability of heat and carbon budgets in the Southern Ocean through an investigation of the key processes controlling exchanges between the atmosphere, ocean and sea ice using a combination of observational and modelling approaches.
 
