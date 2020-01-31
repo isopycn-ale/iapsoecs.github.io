@@ -74,7 +74,7 @@ social-network-links:
   email: "iapsoecs@gmail.com"
 #  facebook: username
   github: iapsoecs
-  twitter: iapso_ecs 
+  twitter: iapso_ecs
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -165,7 +165,7 @@ timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 12
 
 kramdown:
   input: GFM
