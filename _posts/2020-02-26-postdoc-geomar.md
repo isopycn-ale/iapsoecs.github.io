@@ -29,5 +29,5 @@ This is a full time position available for a funding period until January 31, 20
 Please send your application via e-mail with "PalMod2 ocean eddies” in the subject line not later than March 15, 2020 to bewerbung@geomar.de
 
 For further information regarding the position and application process please see
-https://www.geomar.de/en/service/karriere/job-single-en/article/wissenschaftlicherin-postdoc-mwd-zur-rolle-von-wirbeln-im-suedlichen-ozean/
+<https://www.geomar.de/en/service/karriere/job-single-en/article/wissenschaftlicherin-postdoc-mwd-zur-rolle-von-wirbeln-im-suedlichen-ozean/>
 or contact Torge Martin (tomartin@geomar.de).
