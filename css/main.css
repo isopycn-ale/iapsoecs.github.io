@@ -390,6 +390,7 @@ footer .theme-by {
 .news-container {
   position: relative;
   width: 200px;
+  border-color: #808080;
 }
 
 .news-image {
@@ -412,11 +413,11 @@ footer .theme-by {
 }
 
 .news-container:hover .news-overlay {
-  opacity: 0.5;
+  opacity: 0.8;
 }
 
 .news-text {
-  color: #404040;
+  color: #808080;
   font-size: 20px;
   position: absolute;
   top: 50%;
