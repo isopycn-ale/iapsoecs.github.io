@@ -391,14 +391,14 @@ footer .theme-by {
   position: relative;
   text-align: center;
   width: 200px;
-  border: 1px;
-  border-color: #808080;
 }
 
 .news-image {
   display: block;
   width: 100%;
   height: auto;
+  border: 1px;
+  border-color: #808080;
 }
 
 .news-overlay {
@@ -412,9 +412,6 @@ footer .theme-by {
   opacity: 0;
   transition: .5s ease;
   background-color: #1E8FB4;
-}
-
-.news-container:hover .news-overlay {
   opacity: 0.8;
 }
 
@@ -428,11 +425,7 @@ footer .theme-by {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   text-align: center;
-}
-
-.news-text:hover {
-  text-decoration: none;
-  color: {{ site.hover-col }};
+  opacity: 1.0;
 }
 
 /* --- Tags --- */
