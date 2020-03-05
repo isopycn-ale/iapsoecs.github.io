@@ -412,11 +412,15 @@ footer .theme-by {
   opacity: 0;
   transition: .5s ease;
   background-color: #1E8FB4;
+}
+
+.news-container:hover .news-overlay {
   opacity: 0.8;
 }
 
 .news-text {
-  color: {{ site.text-col }};
+  color: rgba(250,250,250,1);
+  z-index: 1;
   font-size: 20px;
   position: absolute;
   top: 50%;
@@ -425,7 +429,6 @@ footer .theme-by {
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
   text-align: center;
-  opacity: 1.0;
 }
 
 /* --- Tags --- */
