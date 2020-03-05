@@ -386,12 +386,55 @@ footer .theme-by {
 }
 
 /* --- Newsletter --- */
-.news img {
-  display: table-cell;
+
+.news a:focus,
+.news a:hover {
+  text-decoration: none;
+  color: {{ site.hover-col }};
+}
+
+.news .news-container {
+  position: relative;
+  width: 50%;
+}
+
+.news .news-image {
+  display: block;
+  width: auto;
+  height: 300px;
   border-radius: 10px;
+  border-color: #eee;
   text-align: center;
   vertical-align: middle;
-  height: 300px;
+}
+
+.news .news-overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #008CBA;
+}
+
+.news .news-container:hover .overlay {
+  opacity: 1;
+}
+
+.news .news-text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
 }
 
 /* --- Tags --- */
