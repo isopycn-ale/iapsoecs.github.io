@@ -12,14 +12,13 @@ subtitle: Updates from the IAPSO ECS network
 
 ### November, 2019 | Issue 2
 <div class="news-container">
-  <a href="https://www.iapsoecs.org/uploads/newsletter/iapsoecs_newsletter_2019_2.pdf" target="_blank">
   <img src="https://www.iapsoecs.org/uploads/newsletter/iapsoecs_newsletter_2019_2_thumbnail.jpg" alt="IAPSO ECS Newsletter, 2019, 2" class="news-image">
   <div class="news-overlay">
     <div class="news-text">Click to download</div>
   </div>
-  </a>
-  <br>
-  <a title="IAPSO ECS Newsletter, 2019, 2" href="https://www.iapsoecs.org/uploads/newsletter/iapsoecs_newsletter_2019_2.pdf" target='_blank'>Download pdf (422 KB)</a>
+</div>
+<div>
+  <a class="news" title="IAPSO ECS Newsletter, 2019, 2" href="https://www.iapsoecs.org/uploads/newsletter/iapsoecs_newsletter_2019_2.pdf" target='_blank'>Download pdf (422 KB)</a>
 </div>
 
 
@@ -27,10 +26,16 @@ subtitle: Updates from the IAPSO ECS network
 <div class="news-container">
   <a href="https://www.iapsoecs.org/uploads/newsletter/iapsoecs_newsletter_2019_1.pdf" target="_blank">
   <img src="https://www.iapsoecs.org/uploads/newsletter/iapsoecs_newsletter_2019_1_thumbnail_1.jpg" alt="IAPSO ECS Newsletter, 2019, 1" class="news-image">
+  <div class="news-overlay">
+    <div class="news-text">Click to download</div>
+  </div>
   <img src="https://www.iapsoecs.org/uploads/newsletter/iapsoecs_newsletter_2019_1_thumbnail_2.jpg" alt="IAPSO ECS Newsletter, 2019, 1" class="news-image">
+  <div class="news-overlay">
+    <div class="news-text">Click to download</div>
+  </div>
   </a>
   <br>
-  <a title="IAPSO ECS Newsletter, 2019, 1" href="https://www.iapsoecs.org/uploads/newsletter/iapsoecs_newsletter_2019_1.pdf" target='_blank'>Download pdf (2.13 MB)</a>
+  <a class="news" title="IAPSO ECS Newsletter, 2019, 1" href="https://www.iapsoecs.org/uploads/newsletter/iapsoecs_newsletter_2019_1.pdf" target='_blank'>Download pdf (2.13 MB)</a>
 </div>
 
 

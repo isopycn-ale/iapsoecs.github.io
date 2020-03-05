@@ -393,22 +393,20 @@ footer .theme-by {
   color: {{ site.hover-col }};
 }
 
-.news .news-container {
+.news-container {
   position: relative;
   width: 50%;
 }
 
-.news .news-image {
+.news-image {
   display: block;
   width: auto;
   height: 300px;
-  border-radius: 10px;
-  border-color: #eee;
   text-align: center;
   vertical-align: middle;
 }
 
-.news .news-overlay {
+.news-overlay {
   position: absolute;
   top: 0;
   bottom: 0;
@@ -421,11 +419,11 @@ footer .theme-by {
   background-color: #008CBA;
 }
 
-.news .news-container:hover .overlay {
+.news-container:hover .news-overlay {
   opacity: 1;
 }
 
-.news .news-text {
+.news-text {
   color: white;
   font-size: 20px;
   position: absolute;
