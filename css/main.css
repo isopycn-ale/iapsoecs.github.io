@@ -385,6 +385,15 @@ footer .theme-by {
   }
 }
 
+/* --- Newsletter --- */
+.news img {
+  display: table-cell;
+  border-radius: 10px;
+  text-align: center;
+  vertical-align: middle;
+  height: 300px;
+}
+
 /* --- Tags --- */
 
 .blog-tags {
