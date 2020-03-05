@@ -387,23 +387,15 @@ footer .theme-by {
 
 /* --- Newsletter --- */
 
-.news a:focus,
-.news a:hover {
-  text-decoration: none;
-  color: {{ site.hover-col }};
-}
-
 .news-container {
   position: relative;
-  width: 50%;
+  width: 200px;
 }
 
 .news-image {
   display: block;
-  width: auto;
-  height: 300px;
-  text-align: center;
-  vertical-align: middle;
+  width: 100%;
+  height: auto;
 }
 
 .news-overlay {
@@ -416,15 +408,15 @@ footer .theme-by {
   width: 100%;
   opacity: 0;
   transition: .5s ease;
-  background-color: #008CBA;
+  background-color: #1E8FB4;
 }
 
 .news-container:hover .news-overlay {
-  opacity: 1;
+  opacity: 0.5;
 }
 
 .news-text {
-  color: white;
+  color: #404040;
   font-size: 20px;
   position: absolute;
   top: 50%;
