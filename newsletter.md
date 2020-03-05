@@ -10,26 +10,25 @@ subtitle: Updates from the IAPSO ECS network
 </div>
 
 
-### July, 2019 | Issue 1
+### November, 2019 | Issue 2
+<div class="news">
+  <a href="https://www.iapsoecs.org/uploads/newsletter/iapsoecs_newsletter_2019_2.pdf" target="_blank">
+  <img src="https://www.iapsoecs.org/uploads/newsletter/iapsoecs_newsletter_2019_2_thumbnail.jpg" alt="IAPSO ECS Newsletter, 2019, 2">
+  </a>
+  <br>
+  <a title="IAPSO ECS Newsletter, 2019, 2" href="https://www.iapsoecs.org/uploads/newsletter/iapsoecs_newsletter_2019_2.pdf" target='_blank'>Download pdf (422 KB)</a>
+</div>
 
+
+### July, 2019 | Issue 1
 <div class="news">
   <a href="https://www.iapsoecs.org/uploads/newsletter/iapsoecs_newsletter_2019_1.pdf" target="_blank" >
   <img src="https://www.iapsoecs.org/uploads/newsletter/iapsoecs_newsletter_2019_1_thumbnail_1.jpg" alt="IAPSO ECS Newsletter, 2019, 1">
   <img src="https://www.iapsoecs.org/uploads/newsletter/iapsoecs_newsletter_2019_1_thumbnail_2.jpg" alt="IAPSO ECS Newsletter, 2019, 1">
   </a>
-</div>
-<div>
-    <p><a title="IAPSO ECS Newsletter, 2019, 1" href="https://www.iapsoecs.org/uploads/newsletter/iapsoecs_newsletter_2019_1.pdf" target='_blank'>Download pdf (2.13 MB)</a></p>
+  <br>
+  <a title="IAPSO ECS Newsletter, 2019, 1" href="https://www.iapsoecs.org/uploads/newsletter/iapsoecs_newsletter_2019_1.pdf" target='_blank'>Download pdf (2.13 MB)</a>
 </div>
 
 
-### November, 2019 | Issue 2
 
-<div class="news">
-  <a href="https://www.iapsoecs.org/uploads/newsletter/iapsoecs_newsletter_2019_2.pdf" target="_blank">
-  <img src="https://www.iapsoecs.org/uploads/newsletter/iapsoecs_newsletter_2019_2_thumbnail.jpg" alt="IAPSO ECS Newsletter, 2019, 2">
-  </a>
-</div>
-<div>
-    <p><a title="IAPSO ECS Newsletter, 2019, 2" href="https://www.iapsoecs.org/uploads/newsletter/iapsoecs_newsletter_2019_2.pdf" target='_blank'>Download pdf (422 KB)</a></p>
-</div>
