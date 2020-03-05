@@ -391,6 +391,7 @@ footer .theme-by {
   position: relative;
   text-align: center;
   width: 200px;
+  border: 1px;
   border-color: #808080;
 }
 
