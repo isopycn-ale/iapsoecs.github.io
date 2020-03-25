@@ -20,15 +20,15 @@ description: Physical and chemical oceaongraphy early career scientists
 
 # List of links in the navigation bar
 navbar-links:
-  About Us: "aboutus"
+  About: "aboutus"
   Jobs: "jobs"
-  Career Resources:
+  Career:
     - More Job Links: "joblinks"
     - Posdoctoral Fellowships: "fellowships"
     - Cruise Opportunities: "cruises"
   Events: "events"
   Newsletter: "newsletter"
-  Join Us: "joinus"
+  Join: "joinus"
 #  Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
