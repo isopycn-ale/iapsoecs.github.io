@@ -4,13 +4,7 @@ title: Cruise Opportunities
 use-site-title: true
 ---
 
-Taking part in a research cruise is a great experience that should be available to all oceanographers. However, news of cruise opportunities often travels by word of mouth, and within institutions. If you are not directly involved in a project that has upcoming cruises, you will need to talk to project PIs to see if they want more people. Other opportunities are more widely advertised, and we have tried to compile a list of them below. 
-
-## CLASS project
-
-Berths on ships are available for students and early career researchers as part of the UK funded "Climate Linked Atlantic Sector Science" project. For more details go [here](https://prj.noc.ac.uk/class/academic-engagement).
-
-There are deadlines to apply for a berth. The next deadline is **31st Dec 2019** for *PAP site*, *Ellett Array* and the *MPA FPO Whittard Canyon* cruises which will all take place in summer 2020. Another deadline is **31st Jan 2020** for the *AMT cruise* in autumn (fall) 2020. 
+Taking part in a research cruise is a great experience that should be available to all oceanographers. However, news of cruise opportunities often travels by word of mouth or email lists within institutions. If you are not directly involved in a project that has upcoming cruises, you will need to talk to project PIs to see if they need more participants. Some opportunities are more widely advertised, and we have tried to compile a list of them below. 
 
 ## UNOLS cruise opportunities (U.S. Only)
 
