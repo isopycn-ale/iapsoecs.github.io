@@ -4,7 +4,7 @@ title: Join us
 use-site-title: true
 ---
 
-Please use the following form to become a member and join a mailing list.
+Please use the following form to become a member and join our mailing list.
 
 <!-- Begin Mailchimp Signup Form -->
 <div id="mc_embed_signup">
