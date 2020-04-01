@@ -35,4 +35,4 @@ Please use the following form to become a member and join our mailing list.
 </div>
 <!--End mc_embed_signup-->
 
-If you are interested in joining the committee please send us an [email](mailto:iapsoecs@gmail.com). 
+If you are interested in joining the committee please send us an [email](mailto:info@iapsoecs.org). 

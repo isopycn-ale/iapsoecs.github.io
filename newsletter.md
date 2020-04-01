@@ -6,7 +6,7 @@ subtitle: Updates from the IAPSO ECS network
 
 <div>
     <p>Please <a href="https://docs.google.com/forms/d/e/1FAIpQLSf6P5gjh6SfeCl_UcR2UaFKwJng7H_P6Aq5Qf0jYHJm804PYA/viewform">fill in this form</a> to join our mailing list and to receive the newsletter. 
-    For questions please contact <a href="mailto:iapsoecs@gmail.com">us</a>.</p>
+    For questions please contact <a href="mailto:info@iapsoecs.org">us</a>.</p>
 </div>
 
 
