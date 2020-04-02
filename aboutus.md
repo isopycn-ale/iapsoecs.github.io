@@ -38,16 +38,5 @@ Jesse is a postdoc in the Multiscale Ocean Dynamics group at the Scripps Institu
 **Prasad Padalkar (India, member):**
 Prasad is a research scholar working with Prof. Parthasarthi Chakraborty at the Indian Institute of Technology, Kharagpur, India. His research deals with understanding the biogeochemical cycling of mercury in tropical coastal environments. In particular, he investigates how the elemental form of mercury controls mercury pollution and the effect of climate change stressors on cycling of mercury in coastal  waters.
 
-<table class="profile-table">
-<tbody class="noborder">
-	<tr>
-	<td width="73%" class="noborder">
-	<p><strong>Alex Haumann (USA, member):</strong> 
-	Alex is an environmental scientist studying the polar climate of the Southern Ocean and the interaction between the sea ice, ocean, atmosphere, and carbon cycle. He received his PhD from ETH Zurich (2016), which was awarded with the ETH Medal and the Prix de Quervain. Currently, Alex is a postdoc at Princeton University and BAS honorary researcher. He collaborates internationally in both the SOCCOM and ORCHESTRA projects, and participated in the Antarctic Circumnavigation Expedition.</p>
-	</td>
-	<td width="24%" class="noborder">
-	<img src="https://www.iapsoecs.org/uploads/bio_photos/alex.jpg" alt="Alex Haumann" class="profile-image" />
-	</td>
-	</tr>
-</tbody>
-</table>
+**Alex Haumann (USA, member):**
+Alex is an environmental scientist studying the polar climate of the Southern Ocean and the interaction between the sea ice, ocean, atmosphere, and carbon cycle. He received his PhD from ETH Zurich (2016), which was awarded with the ETH Medal and the Prix de Quervain. Currently, Alex is a postdoc at Princeton University and BAS honorary researcher. He collaborates internationally in both the SOCCOM and ORCHESTRA projects, and participated in the Antarctic Circumnavigation Expedition.</p>
