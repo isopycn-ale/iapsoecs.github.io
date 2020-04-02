@@ -406,6 +406,15 @@ footer .theme-by {
   border-color: #808080;
 }
 
+.profile-table table {
+        border-collapse: collapse;
+		width: 100%
+    }
+
+.noborder tbody tr td {
+        border:0;
+    }
+
 
 /* --- Newsletter --- */
 
