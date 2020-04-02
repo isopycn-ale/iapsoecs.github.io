@@ -13,6 +13,7 @@ subtitle: IAPSO Early Career Scientists
 
 ## Committee members
 
+
 **Alejandra Sanchez-Franks (UK, chairperson):**
 Alejandra is a research scientist in the Marine Physics and Ocean Climate Group at the National Oceanography Centre (NOC) in Southampton. She joined NOC after finishing her PhD in Stony Brook University, New York in April 2015 to work on the Bay of Bengal Boundary Layer Experiment (BoBBLE) project, which is a joint collaboration between the UK and India investigating the role of the Bay of Bengal in monsoon variability. As of January 2019, she has joined the RAPID-AMOC (project monitoring the Atlantic meridional overturning circulation) team.
 
@@ -37,7 +38,12 @@ Jesse is a postdoc in the Multiscale Ocean Dynamics group at the Scripps Institu
 **Prasad Padalkar (India, member):**
 Prasad is a research scholar working with Prof. Parthasarthi Chakraborty at the Indian Institute of Technology, Kharagpur, India. His research deals with understanding the biogeochemical cycling of mercury in tropical coastal environments. In particular, he investigates how the elemental form of mercury controls mercury pollution and the effect of climate change stressors on cycling of mercury in coastal  waters.
 
+<div class="profile-container">
 **Alex Haumann (USA, member):**
+<div style="width:73%; padding:0 15px;">
 Alex is an environmental scientist studying the polar climate of the Southern Ocean and the interaction between the sea ice, ocean, atmosphere, and carbon cycle. He received his PhD from ETH Zurich (2016), which was awarded with the ETH Medal and the Prix de Quervain. Currently, Alex is a postdoc at Princeton University and BAS honorary researcher. He collaborates internationally in both the SOCCOM and ORCHESTRA projects, and participated in the Antarctic Circumnavigation Expedition. 
-
-
+</div>
+<div style="width:24%; padding:0 15px;">
+<img src="https://www.iapsoecs.org/uploads/bio_photos/alex.jpg" alt="Alex Haumann" class="profile-image" />
+</div>
+</div>
