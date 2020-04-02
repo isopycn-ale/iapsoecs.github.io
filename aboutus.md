@@ -111,7 +111,7 @@ subtitle: IAPSO Early Career Scientists
 	<p><strong>Prasad Padalkar (India, member):</strong> 
 	Prasad is a research scholar working with Prof. Parthasarthi Chakraborty at the Indian Institute of Technology, Kharagpur, India. His research deals with understanding the biogeochemical cycling of mercury in tropical coastal environments. In particular, he investigates how the elemental form of mercury controls mercury pollution and the effect of climate change stressors on cycling of mercury in coastal  waters.</p>
 	</td>
-	<td width="160px" class="profile-cell">
+	<td width="24%" class="profile-cell">
 	<img src="https://www.iapsoecs.org/uploads/bio_photos/prasad.jpg" alt="Prasad Padalkar" class="profile-image"/>
 	</td>
 	</tr>
@@ -124,7 +124,7 @@ subtitle: IAPSO Early Career Scientists
 	<p><strong>Alex Haumann (USA, member):</strong> 
 	Alex is an environmental scientist studying the polar climate of the Southern Ocean and the interaction between the sea ice, ocean, atmosphere, and carbon cycle. He received his PhD from ETH Zurich (2016), which was awarded with the ETH Medal and the Prix de Quervain. Currently, Alex is a postdoc at Princeton University and BAS honorary researcher. He collaborates internationally in both the SOCCOM and ORCHESTRA projects, and participated in the Antarctic Circumnavigation Expedition.</p>
 	</td>
-	<td width="160px" class="profile-cell">
+	<td width="24%" class="profile-cell">
 	<a href="https://www.ahaumann.net" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/alex.jpg" alt="Alex Haumann" class="profile-image"/></a>
 	</td>
 	</tr>

@@ -402,12 +402,14 @@ footer .theme-by {
 	border: none;
 	margin: 20px 0;
     padding:0;
+	vertical-align: top;
 }
 
 .profile-tab .profile-cell {
 	border: none;
 	padding: 0;
 	margin:0;
+	vertical-align: top;
 }
 
 .profile-image {
@@ -419,6 +421,7 @@ footer .theme-by {
 	margin-left: 5px;
 	margin-top: 5px;
 	margin-bottom: 5px;
+	vertical-align: top;
 }
 
 .profile-image:hover {
