@@ -394,6 +394,38 @@ footer .theme-by {
   }
 }
 
+/* --- Profiles --- */
+.profile-tab {
+	border-collapse:collapse;
+	width: 800px;
+	height: 190px;
+	border: none;
+	margin:0;
+    padding:0;
+}
+
+.profile-tab .profile-cell {
+	border: none;
+	padding: 0;
+	margin:0;
+}
+
+.profile-image {
+	display: block;
+	border-radius: 100%;
+	width: autp;
+	height: 160px;
+	border:3px solid gray;
+	margin-left: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.profile-image:hover {
+	transform: scale(1.05);
+	opacity: 0.8;
+}
+
 
 /* --- Newsletter --- */
 
