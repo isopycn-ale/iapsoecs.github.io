@@ -396,12 +396,6 @@ footer .theme-by {
 
 /* --- Profiles --- */
 
-.profile-container {
-  position: relative;
-  text-align: center;
-  width: 200px;
-}
-
 .profile-image {
   display: block;
   width: 100%;
