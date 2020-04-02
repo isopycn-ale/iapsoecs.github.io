@@ -413,8 +413,8 @@ footer .theme-by {
 .profile-image {
 	display: block;
 	border-radius: 100%;
-	width: autp;
-	height: 160px;
+	width: 160px;
+	height: auto;
 	border:3px solid gray;
 	margin-left: 5px;
 	margin-top: 5px;
