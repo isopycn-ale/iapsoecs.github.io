@@ -13,7 +13,6 @@ subtitle: IAPSO Early Career Scientists
 
 ## Committee members
 
-<br>
 <table class="profile-tab">
 	<tr  class="profile-cell">
 	<td width="73%" class="profile-cell">
@@ -26,7 +25,7 @@ subtitle: IAPSO Early Career Scientists
 	</tr>
 </table>
 <br>
-<br>
+
 <table class="profile-tab">
 	<tr  class="profile-cell">
 	<td width="73%" class="profile-cell">
@@ -39,7 +38,7 @@ subtitle: IAPSO Early Career Scientists
 	</tr>
 </table>
 <br>
-<br>
+
 <table class="profile-tab">
 	<tr  class="profile-cell">
 	<td width="73%" class="profile-cell">
@@ -52,7 +51,7 @@ subtitle: IAPSO Early Career Scientists
 	</tr>
 </table>
 <br>
-<br>
+
 <table class="profile-tab">
 	<tr  class="profile-cell">
 	<td width="73%" class="profile-cell">
@@ -65,7 +64,7 @@ subtitle: IAPSO Early Career Scientists
 	</tr>
 </table>
 <br>
-<br>
+
 <table class="profile-tab">
 	<tr  class="profile-cell">
 	<td width="73%" class="profile-cell">
@@ -78,7 +77,7 @@ subtitle: IAPSO Early Career Scientists
 	</tr>
 </table>
 <br>
-<br>
+
 <table class="profile-tab">
 	<tr  class="profile-cell">
 	<td width="73%" class="profile-cell">
@@ -91,7 +90,7 @@ subtitle: IAPSO Early Career Scientists
 	</tr>
 </table>
 <br>
-<br>
+
 <table class="profile-tab">
 	<tr  class="profile-cell">
 	<td width="73%" class="profile-cell">
@@ -104,7 +103,7 @@ subtitle: IAPSO Early Career Scientists
 	</tr>
 </table>
 <br>
-<br>
+
 <table class="profile-tab">
 	<tr  class="profile-cell">
 	<td width="73%" class="profile-cell">
@@ -117,7 +116,7 @@ subtitle: IAPSO Early Career Scientists
 	</tr>
 </table>
 <br>
-<br>
+
 <table class="profile-tab">
 	<tr  class="profile-cell">
 	<td width="73%" class="profile-cell">
