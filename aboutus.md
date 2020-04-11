@@ -34,7 +34,7 @@ subtitle: IAPSO Early Career Scientists
 	Malin is a post-doctoral scientist at the University of Arizona in Tucson. She works on ocean carbon storage across climate states, mainly using intermediate complexity models. Passionate about the ocean, world politics, outdoor activities and her home region in Sweden north of the Artic Circle.</p>
 	</td>
 	<td width="24%" class="profile-cell">
-	<img src="https://www.iapsoecs.org/uploads/bio_photos/malin.jpg" alt="Malin Ödalen" class="profile-image"/>
+	<a href="https://www.researchgate.net/profile/Malin_Oedalen" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/malin.jpg" alt="Malin Ödalen" class="profile-image"/></a>
 	</td>
 	</tr>
 </table>
