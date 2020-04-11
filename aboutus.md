@@ -86,7 +86,7 @@ subtitle: IAPSO Early Career Scientists
 	Casimir is a physical oceanographer at the LOCEAN Laboratory in Paris. He studies the climatic functions of the deep and polar oceans, focusing on turbulence and mixing in the ocean abyss. Long runs and long nights out keep him in balance.</p>
 	</td>
 	<td width="24%" class="profile-cell">
-	<a href="https://www.researchgate.net/profile/Casimir_De_Lavergne" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/casimir.jpg" alt="Casimir de Lavergne" class="profile-image"/>
+	<a href="https://www.researchgate.net/profile/Casimir_De_Lavergne" target="_blank"><img src="https://www.iapsoecs.org/uploads/bio_photos/casimir.jpg" alt="Casimir de Lavergne" class="profile-image"/></a>
 	</td>
 	</tr>
 </table>
