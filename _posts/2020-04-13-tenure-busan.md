@@ -27,23 +27,30 @@ To apply, please send the following files in pdf format to ppes@pusan.ac.kr <mai
 
 PDF 1 (title: personal information_your name.pdf)
  - personal information form, download from https://ppes.pusan.ac.kr/_Board/notice_view.asp?gbn=01&mode=&board_idx=975&keyfield=&keyword=&GotoPage= <https://ppes.pusan.ac.kr/_Board/notice_view.asp?gbn=01&mode=&board_idx=975&keyfield=&keyword=&GotoPage=>
+ 
 PDF 2 (title: CV and Research plan_your name.pdf)
  - a cover letter indicating the position title (in English)
  - a Curriculum Vitae with Publication List (in English)
  - an expression of research and teaching interests (in English)
  - a 3-page proposal describing future research plans within ICCP (in English)
+ 
 PDF 3 (title: publicationform_your name.pdf)
  - publication form, download from https://ppes.pusan.ac.kr/_Board/notice_view.asp?gbn=01&mode=&board_idx=975&keyfield=&keyword=&GotoPage= <https://ppes.pusan.ac.kr/_Board/notice_view.asp?gbn=01&mode=&board_idx=975&keyfield=&keyword=&GotoPage=>
+ 
 PDF 4 (title: certificates_your name.pdf)
  - graduate transcripts (Bachelor, Master and PhD) in English
  - evidence of past employments in English
  - evidence of past research awards in English
+ 
 PDF 5 (title: PhDthesis_yourname.pdf)
  - PhD thesis (in English)
+ 
 PDF 6 (title: paperNo_yourname.pdf)
  - Papers published within last three (3) years (2017.04.01 ~ 2020.04.13) (in English)
+ 
 PDF 7 (title Reference_yourname.pdf)
  - One (1) reference letter should be directly sent from a professor-level scientist to ppes@pusan.ac.kr <mailto:ppes@pusan.ac.kr> (in English)
+ 
 PDF 8 (title NameofReferences_yourname.pdf)
  - Contact information of 2 additional references shall be provided
 
