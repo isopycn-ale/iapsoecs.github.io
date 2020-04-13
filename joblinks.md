@@ -14,5 +14,5 @@ subtitle: Other places to look for oceanography jobs
 
 ## Institutional websites
 There are many, but some examples include:
-* Job openings at [Woods Hole Oceanographic Institution](https://careers.whoi.edu/opportunities/view-all-openings/) 
+* Job openings at [Woods Hole Oceanographic Institution](https://allcareers-whoi.icims.com/jobs/)
 * Job openings at [Scripps Institution of Oceanography](https://scripps.ucsd.edu/people/jobs)
