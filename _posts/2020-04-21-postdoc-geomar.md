@@ -22,6 +22,7 @@ Circulation and Climate Dynamics is offering a position as
 starting on 1st July 2020. Earlier or later start can be considered.
 
 **Job Description**
+
 We are looking for a Postdoctoral scientist to conduct research on
 climate modelling focusing on Southern Ocean processes. It is part of
 the large-scale H2020 SO-CHIC project (2019-2023), in which 15
