@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Two research assistant positions Storrs, USA
+title: Research assistant position in Storrs, USA
 subtitle: University of Connecticut
 tags: [postdoc, USA, numerical modelling, coastal ocean]
 comments: false
