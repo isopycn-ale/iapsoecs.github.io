@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Postdoc position (3 years) in Oslo, Norway
+title: PhD position (3 years) in Oslo, Norway
 subtitle: University of Oslo
 tags: [postdoc, Norway, numerical modelling, coastal ocean]
 comments: false
