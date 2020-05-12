@@ -2,7 +2,7 @@
 layout: post
 title: Postdoctoral Research Scientist at Lamont-Doherty Earth Observatory
 subtitle: Lamont-Doherty Earth Observatory, Columbia University, New York (USA)
-tags: [Postdoc, USA, numerical modelling, physical oceanography, glaciology]
+tags: [Postdoc, USA, Arctic climate change, polar amplification, modelling]
 comments: false
 ---
 
