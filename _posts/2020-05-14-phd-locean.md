@@ -2,7 +2,7 @@
 layout: post
 title: PhD Position at Sorbonne University, France
 subtitle: LOCEAN-IPSL, Sorbonne University, Paris, France
-tags: [PhD, France, numerical modelling, physical oceanography]
+tags: [PhD, France, physical oceanography]
 comments: false
 ---
 
