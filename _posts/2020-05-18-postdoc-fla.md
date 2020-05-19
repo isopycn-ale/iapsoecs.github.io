@@ -2,7 +2,7 @@
 layout: post
 title: Postdoc position in Fort Pierce, Florida
 subtitle: Harbor Branch Oceanographic Institute, Florida Atlantic University
-tags: [postdoc, US, observations, lake]
+tags: [postdoc, USA, observations, lake]
 comments: false
 ---
 Position Summary:
