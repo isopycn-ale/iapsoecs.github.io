@@ -2,6 +2,8 @@
 layout: page
 title: About Us
 subtitle: IAPSO Early Career Scientists
+bigimg:
+  - "/img/IAPSO_cover_large.jpg"
 ---
 
 ## Objectives
