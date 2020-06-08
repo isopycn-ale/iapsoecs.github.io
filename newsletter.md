@@ -15,7 +15,7 @@ subtitle: Updates from the IAPSO ECS network
   <a title="IAPSO ECS Newsletter, 2020, 4" href="/uploads/newsletter/iapsoecs_newsletter_2020_4.pdf" target='_blank'>
   <img src="/uploads/newsletter/iapsoecs_newsletter_2020_4_thumbnail.jpg" alt="IAPSO ECS Newsletter, 2020, 4" class="news-image">
   <div class="news-overlay">
-    <div class="news-text">Click to download pdf (??? KB)</div>
+    <div class="news-text">Click to download pdf (7.23 MB)</div>
   </div>
   </a>
 </div>
