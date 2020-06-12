@@ -5,7 +5,7 @@ subtitle: Utrecht University
 tags: [postdoc, Netherlands, numerical modelling, ocean plastic]
 comments: false
 ---
-** PhD position in numerical modelling of nanoplastic pollution in the ocean **
+**PhD position in numerical modelling of nanoplastic pollution in the ocean**
 
 The amount of plastic in our ocean is growing rapidly, with estimates of more than 5 million metric tonnes of plastic reaching the ocean each year. This plastic infiltrates the ocean food web and thus poses a major threat to marine life. However, the understanding of the distribution, pathways and fate of plastic once in the ocean is very limited.
 
@@ -33,8 +33,10 @@ Our ideal candidate has a driven and collaborative spirit and:
 
 Preferably you also have a proven affinity with physical oceanography and experience with software development practices such as version control and unit-testing. In addition, you bring along strong skills in advanced data science.
 
-** Closing date **
+**Closing date**
+
 6/13/2020
 
-** Webpage **
+**Webpage**
+
 https://www.uu.nl/en/organisation/working-at-utrecht-university/jobs/phd-position-in-numerical-modelling-of-nanoplastic-pollution-in-the-ocean-10-fte
