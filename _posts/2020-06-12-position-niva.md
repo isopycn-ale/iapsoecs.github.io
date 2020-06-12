@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Researcher position in Norway
+title: Researcher positions in Norway
 subtitle: Norwegian Institute for Water Research
 tags: [researcher, Norway, observations, biogeochemistry]
 comments: false
