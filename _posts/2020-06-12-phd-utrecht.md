@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PhD position in Utrecht, Netherlands
-subtitle: University of Reading
+subtitle: Utrecht University
 tags: [postdoc, Netherlands, numerical modelling, ocean plastic]
 comments: false
 ---
